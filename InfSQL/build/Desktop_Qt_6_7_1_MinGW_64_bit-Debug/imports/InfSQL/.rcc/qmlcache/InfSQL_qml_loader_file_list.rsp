@@ -1,8 +1,0 @@
---resource
-C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/imports/InfSQL/.qt/rcc/qmake_InfSQL.qrc
---resource
-C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/imports/InfSQL/.qt/rcc/InfSQL_raw_qml_0.qrc
-/qt/qml/InfSQL/Constants.qml
-/qt/qml/InfSQL/DirectoryFontLoader.qml
-/qt/qml/InfSQL/EventListModel.qml
-/qt/qml/InfSQL/EventListSimulator.qml
