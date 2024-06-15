@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/InfDatenbank/">
+    <file alias="Constants.qml">C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

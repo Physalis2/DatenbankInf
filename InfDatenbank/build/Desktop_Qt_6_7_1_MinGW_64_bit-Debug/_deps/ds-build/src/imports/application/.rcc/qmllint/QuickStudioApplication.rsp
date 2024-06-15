@@ -1,0 +1,9 @@
+--bare
+-I
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/qml
+-I
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/_deps/ds-build/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc

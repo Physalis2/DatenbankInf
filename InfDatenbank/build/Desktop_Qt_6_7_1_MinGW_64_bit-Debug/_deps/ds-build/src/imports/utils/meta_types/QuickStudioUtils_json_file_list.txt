@@ -1,0 +1,2 @@
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/_deps/ds-build/src/imports/utils/QuickStudioUtils_autogen/include/../EWIEGA46WW/moc_quickstudiocsvtablemodel_p.cpp.json
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/_deps/ds-build/src/imports/utils/QuickStudioUtils_autogen/include/../EWIEGA46WW/moc_quickstudiofilereader_p.cpp.json

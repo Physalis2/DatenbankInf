@@ -1,0 +1,17 @@
+--bare
+-I
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/qml
+-I
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/imports/InfDatenbank/.qt/rcc/qmake_InfDatenbank.qrc
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/imports/InfDatenbank/.qt/rcc/InfDatenbank_raw_qml_0.qrc
+C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/Constants.qml
+C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/DirectoryFontLoader.qml
+C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/EventListModel.qml
+C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/imports/InfDatenbank/EventListSimulator.qml
+--json
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/InfDatenbank_qmllint.json

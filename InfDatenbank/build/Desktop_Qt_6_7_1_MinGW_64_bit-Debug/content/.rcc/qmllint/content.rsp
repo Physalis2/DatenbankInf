@@ -1,0 +1,13 @@
+--bare
+-I
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/qml
+-I
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/content/.qt/rcc/qmake_content.qrc
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/content/.qt/rcc/content_raw_qml_0.qrc
+C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/content/App.qml
+C:/ProgramData/QtCreator/Links/c9c6e9c84997cf4c0602b1ab54018c1a/content/Screen01.ui.qml

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/QtQuick/Studio/Utils/">
+    <file alias="JsonListModel.qml">C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/_deps/ds-src/src/imports/utils/JsonListModel.qml</file>
+    <file alias="JsonBackend.qml">C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/_deps/ds-src/src/imports/utils/JsonBackend.qml</file>
+    <file alias="ChildListModel.qml">C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/_deps/ds-src/src/imports/utils/ChildListModel.qml</file>
+  </qresource>
+</RCC>
+

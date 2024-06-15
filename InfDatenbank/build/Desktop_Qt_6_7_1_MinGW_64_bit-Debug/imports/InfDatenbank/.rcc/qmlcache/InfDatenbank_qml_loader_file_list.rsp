@@ -1,0 +1,8 @@
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/imports/InfDatenbank/.qt/rcc/qmake_InfDatenbank.qrc
+--resource
+C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/imports/InfDatenbank/.qt/rcc/InfDatenbank_raw_qml_0.qrc
+/qt/qml/InfDatenbank/Constants.qml
+/qt/qml/InfDatenbank/DirectoryFontLoader.qml
+/qt/qml/InfDatenbank/EventListModel.qml
+/qt/qml/InfDatenbank/EventListSimulator.qml

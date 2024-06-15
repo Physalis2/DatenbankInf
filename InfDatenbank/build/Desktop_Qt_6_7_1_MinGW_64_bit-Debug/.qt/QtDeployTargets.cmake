@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_InfDatenbankApp_FILE C:/ProgramData/QtCreator/Links/40acd37b86da45ce28c8c82b02a4f6b8/InfDatenbankApp.exe)
+set(__QT_DEPLOY_TARGET_InfDatenbankApp_RUNTIME_DLLS C:/Qt/6.7.1/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.7.1/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.7.1/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.7.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.7.1/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.7.1/mingw_64/bin/Qt6Network.dll;C:/Qt/6.7.1/mingw_64/bin/Qt6Core.dll)
