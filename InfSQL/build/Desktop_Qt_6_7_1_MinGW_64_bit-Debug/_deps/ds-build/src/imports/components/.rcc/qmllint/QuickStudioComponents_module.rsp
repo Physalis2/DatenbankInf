@@ -1,0 +1,12 @@
+-I
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/qml
+-I
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/_deps/ds-build/src/imports/components/.qt/rcc/qmake_QtQuick_Studio_Components.qrc
+--resource
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/_deps/ds-build/src/imports/components/.qt/rcc/QuickStudioComponents_raw_qml_0.qrc
+--module
+QtQuick.Studio.Components

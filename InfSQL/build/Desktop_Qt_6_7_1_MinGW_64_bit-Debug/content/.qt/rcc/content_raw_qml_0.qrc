@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">C:/ProgramData/QtCreator/Links/fb7f45df5eada50a12e27fe335d3e8aa/content/App.qml</file>
+    <file alias="Screen01.ui.qml">C:/ProgramData/QtCreator/Links/fb7f45df5eada50a12e27fe335d3e8aa/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">C:/ProgramData/QtCreator/Links/fb7f45df5eada50a12e27fe335d3e8aa/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

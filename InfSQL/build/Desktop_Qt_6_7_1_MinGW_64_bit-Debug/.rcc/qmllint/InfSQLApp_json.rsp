@@ -1,0 +1,16 @@
+--bare
+-I
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2
+-I
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/.qt/rcc/configuration.qrc
+--resource
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/.qt/rcc/qmake_Main.qrc
+--resource
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/.qt/rcc/InfSQLApp_raw_qml_0.qrc
+C:/ProgramData/QtCreator/Links/fb7f45df5eada50a12e27fe335d3e8aa/main.qml
+--json
+C:/ProgramData/QtCreator/Links/d8d55bf5b839b33bb9d4ffe8199f9df2/InfSQLApp_qmllint.json

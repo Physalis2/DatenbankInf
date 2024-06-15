@@ -1,0 +1,4 @@
+module Main
+typeinfo InfSQLApp.qmltypes
+prefer :/qt/qml/Main/
+
