@@ -91,7 +91,7 @@ Window {
                     createDB.getDBHandle().transaction(
                         function(tx){
                             console.log("Getting Data ...")
-                            let result=tx.executeSql("select count(*) from schuelerin, klasse where schuelerin.klasse_id = klasse.id and klasse.name = '7a'")
+                            let result=tx.executeSql("select Cast(count(*) as text) as count from schuelerin, klasse where schuelerin.klasse_id = klasse.id and klasse.name = '7a'")
                             for ( let i = 0; i < result.rows.length; i++){
                                 my_Model.append(
                                     {one: result.rows.item(i).count}
@@ -187,10 +187,10 @@ Window {
                     createDB.getDBHandle().transaction(
                         function(tx){
                             console.log("Getting Data ...")
-                            let result=tx.executeSql("select wert from schuelerin, note, fach where note.schueler_id = schuelerin.id and note.fach_id = fach.id and fach.name = 'Englisch' and schuelerin.rufname = 'Jason' and schuelerin.familienname = 'Carpenter'")
+                            let result=tx.executeSql("select cast(wert AS text) as wert from schuelerin, note, fach where note.schueler_id = schuelerin.id and note.fach_id = fach.id and fach.name = 'Englisch' and schuelerin.rufname = 'Jason' and schuelerin.familienname = 'Carpenter'")
                             for ( let i = 0; i < result.rows.length; i++){
                                 my_Model.append(
-                                    {one: toString(result.rows.item(i).wert)}
+                                    {one: result.rows.item(i).wert}
                                 )
 
                             }
